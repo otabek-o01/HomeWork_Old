@@ -7,7 +7,7 @@ public class CarModel {
     private String CarModel;
     private String CarColor;
 
-    // CarAuto -- Bolean
+    // CarAuto -- Boolean
     private boolean CarAuto;
 
     //CarPrice -- Double
